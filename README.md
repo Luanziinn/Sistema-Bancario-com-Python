@@ -1,1 +1,1 @@
-Repositório referente ao desafio do bootcamp Python AI Backend Developer DIO.
+Repositório referente aos desafios do bootcamp Python AI Backend Developer DIO.
